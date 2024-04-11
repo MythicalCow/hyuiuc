@@ -25,6 +25,43 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.custom-shape-divider-top-1712860170 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+.custom-shape-divider-top-1712860733 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 163px;
+}
+
+.custom-shape-divider-top-1712860733 .shape-fill {
+  fill: #ffb703;
+}
+
+.custom-shape-divider-bottom-1712864080 {
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1712864080 svg {
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 101px;
+}
+
+.custom-shape-divider-bottom-1712864080 .shape-fill {
+  fill: #e75480;
+}
+
+
 
 @layer utilities {
   .text-balance {

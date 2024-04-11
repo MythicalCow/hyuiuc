@@ -33,7 +33,7 @@ export default function Home() {
         </div>
       </div>
       <div className="w-full p-10">
-          <h1 className="text-5xl text-white pb-10 pt-10 text-center font-bold">"Arise, awake, and stop not until the goal is achieved."</h1>
+          <h1 className="text-5xl text-white pb-10 pt-10 text-center font-bold">&quot;Arise, awake, and stop not until the goal is achieved.&quot;</h1>
           <h1 className="text-3xl text-white text-center font-serif italic">- Swami Vivekananda</h1>
       </div>
       <div className="custom-shape-divider-bottom-1712864080">

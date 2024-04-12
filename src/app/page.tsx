@@ -9,7 +9,7 @@ export default function Home() {
           <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-10 pt-5">
             <div className="flex items-center space-x-3">
               <Image src="/logo.PNG" alt="Carbon" width={80} height={80}/>
-              <span className="text-3xl font-semibold whitespace-nowrap dark:text-black">Hindu YUVA UIUC</span>
+              <span className="text-3xl font-semibold whitespace-nowrap dark:text-black pr-5">Hindu YUVA UIUC</span>
             </div>
             <div className="block pb-4">
               <ul className="flex flex-col font-medium md:p-0 mt-4 borderrounded-lg md:space-x-4 rtl:space-x-reverse md:flex-row">
